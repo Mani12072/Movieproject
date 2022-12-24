@@ -1,0 +1,16 @@
+body{
+    background-color: lightyellow;
+}
+h1{
+    color:blue;
+    background-color: yellow;
+    text-align: center;
+}
+h2{
+    color:green;
+}
+h3{
+    background-color: orange;
+    color: orangered;
+    text-align: center;
+}
